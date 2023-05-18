@@ -43,7 +43,7 @@ def pivot_months_pandas(data):
 
     # QUESTION FOR MAY 19 LAB - how is panda pivot method used in here? 
     
-    
+        
     
     #REMEMBER TO SUBMIT LAB 1 DURING MAY 19 LAB
     
